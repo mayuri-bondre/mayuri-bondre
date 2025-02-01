@@ -9,5 +9,3 @@
 - 💬 Feel free to ask me about my work with the MERN stack
 - ⚡ Fun fact: I believe in the power of coffee and code
 
-
-![image](https://github.com/user-attachments/assets/97d298ea-919f-4d64-9ab6-93f6377d9695)
