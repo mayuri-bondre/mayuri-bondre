@@ -9,4 +9,4 @@
 - 💬 Feel free to ask me about my work with the MERN stack
 - ⚡ Fun fact: I believe in the power of coffee and code
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mayuri-bondre)](https://github.com/mayuri-bondre/github-readme-stats)
+
